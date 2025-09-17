@@ -37,5 +37,24 @@
         "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
         "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/build/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
-    }
+    },
+    {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.ink&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mohamed-elmasry17/arabmasry",
+    "fileSize": 16392,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 21,
+    "internalName": "AkwamProvider",
+    "url": "https://github.com/mohamed-elmasry17/arabmasry/raw/main/build/AkwamProvider.cs3",
+    "name": "AkwamProvider"
+}
 ]
